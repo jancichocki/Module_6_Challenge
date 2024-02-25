@@ -4,7 +4,7 @@ This project explores the San Francisco housing market, analyzing trends in hous
 
 ## Project Resources
 
-- ["Main.ipynb" - consolidated program code only.](https://github.com/jancichocki/Module_6_Challenge/blob/main/Main.ipynb)
+- ["Main.ipynb" - consolidated program code and answers.](https://github.com/jancichocki/Module_6_Challenge/blob/main/Main.ipynb)
 - ["san_francisco_housing.ipynb" - Full completed project walkthrough.](https://github.com/jancichocki/Module_6_Challenge/blob/main/san_francisco_housing.ipynb)
 
 
