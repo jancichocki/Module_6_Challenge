@@ -2,6 +2,12 @@
 
 This project explores the San Francisco housing market, analyzing trends in housing units, sale prices per square foot, and gross rents across different neighborhoods. Utilizing Python libraries such as Pandas and HvPlot, along with geospatial data visualization techniques, this analysis provides insights into viable investment opportunities in the San Francisco real estate market.
 
+## Project Resources
+
+- ["Main.ipynb" - consolidated program code only.](https://github.com/jancichocki/Module_6_Challenge/blob/main/Main.ipynb)
+- ["san_francisco_housing.ipynb" - Full completed project walkthrough.](https://github.com/jancichocki/Module_6_Challenge/blob/main/san_francisco_housing.ipynb)
+
+
 ## Overview
 
 The analysis focuses on several key aspects:
